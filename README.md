@@ -13,33 +13,35 @@ This website can be used by anyone who is interested in purchasing, rate, and di
 
 ### Homepage
 It’s a first page people see after they are logged so it usually pays big role in the website. Home page should be attractive to catch the attention and have simple look for user to know where they are. The homepage will consist of a clear website name, simple design, list of updates and news about the website so members of the website can always know what’s happening around the website.
-<img src="https://imgur.com/a/xGPTXwe">
-
-### About 
-Consist of list of pages the user can go to and describes them individually, about page should tell user what they should expect on the website and what kind of activities they are able to do.  
-<img src="https://imgur.com/citvQm0">
-
-### Forum
-Leads to a forum website where user is able create account and interact with other user by posting new topics, commenting different topics posted by other users. Member are also allowed to add other members to their friends and send private messages.
-<img src="https://imgur.com/xjJtyRC">
-
-### Shop
-Is the main tool for making money in web pages and it should have simple design. An online store contains large number of products and should be easily modified by admin.
-<img src="https://imgur.com/etuQbJo">
-
-### Cart
-Every e-commerce website should have cart. Whenever members purchase products from store it goes directly to the cart making list of products members is about to purchase before checkout.
-<img src="https://imgur.com/0CBjLSq">
-
-### Rating
-This is the place where members can rate games. Rating consists of list of games that are stored in database and displayed in store, is contains description and 5-star rating system where members can rate and see average rating of all the games.
-<img src="https://imgur.com/0CBjLSq">
+<img src="https://i.imgur.com/hSpIMa8.png" alt="homepage">
 
 ### Login Page 
 Users can sign in or sign up to the website, On successful login they will have access to the website. When a login fails (i.e, the username and password combination does not match a user account), the user is disallowed access.
-<img src="https://imgur.com/QhvGQFB">
+<img src="https://i.imgur.com/CSWMYiJ.png">
+
+### About 
+Consist of list of pages the user can go to and describes them individually, about page should tell user what they should expect on the website and what kind of activities they are able to do.  
+<img src="https://i.imgur.com/Ni6IltJ.png">
+
+### Forum
+Leads to a forum website where user is able create account and interact with other user by posting new topics, commenting different topics posted by other users. Member are also allowed to add other members to their friends and send private messages.
+<img src="https://i.imgur.com/BgIABCv.png>
+
+### Shop
+Is the main tool for making money in web pages and it should have simple design. An online store contains large number of products and should be easily modified by admin.
+<img src="https://i.imgur.com/anoSHQR.png">
+
+### Cart
+Every e-commerce website should have cart. Whenever members purchase products from store it goes directly to the cart making list of products members is about to purchase before checkout.
+<img src="https://i.imgur.com/wro7DPE.png">
+#### Billing
+<img src="https://i.imgur.com/sojiGEg.png">
+
+### Rating
+This is the place where members can rate games. Rating consists of list of games that are stored in database and displayed in store, is contains description and 5-star rating system where members can rate and see average rating of all the games.
+<img src="https://i.imgur.com/fzTlXv5.png">
 
 ### Administration Site
 After administrator login in with his login details link to management page will be displayed in the navigation bar. Products and news/updates will be managed.
-<img src="https://imgur.com/P9P846c">
-<img src="https://imgur.com/xuq5tBe">
+<img src="https://i.imgur.com/hzkjs8g.png">
+<img src="https://i.imgur.com/VwMwUTg.png">
