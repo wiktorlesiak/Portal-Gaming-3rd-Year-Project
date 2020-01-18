@@ -24,7 +24,7 @@ Consist of list of pages the user can go to and describes them individually, abo
 
 ### Forum
 Leads to a forum website where user is able create account and interact with other user by posting new topics, commenting different topics posted by other users. Member are also allowed to add other members to their friends and send private messages.
-<img src="https://i.imgur.com/BgIABCv.png>
+<img src="https://i.imgur.com/BgIABCv.png">
 
 ### Shop
 Is the main tool for making money in web pages and it should have simple design. An online store contains large number of products and should be easily modified by admin.
