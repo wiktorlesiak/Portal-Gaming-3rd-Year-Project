@@ -1,4 +1,4 @@
-# E-Commerce Website for 3rd Year Project
+# Portal Gaming
 
 ## E-commerce website with forum created with PHP, HTML, JAVASCRIPT, CSS, MYSQL.
 ------
@@ -13,7 +13,7 @@ This website can be used by anyone who is interested in purchasing, rate, and di
 
 ### Homepage
 It’s a first page people see after they are logged so it usually pays big role in the website. Home page should be attractive to catch the attention and have simple look for user to know where they are. The homepage will consist of a clear website name, simple design, list of updates and news about the website so members of the website can always know what’s happening around the website.
-<img src="https://imgur.com/lJS82y1">
+<img src="https://imgur.com/a/xGPTXwe">
 
 ### About 
 Consist of list of pages the user can go to and describes them individually, about page should tell user what they should expect on the website and what kind of activities they are able to do.  
