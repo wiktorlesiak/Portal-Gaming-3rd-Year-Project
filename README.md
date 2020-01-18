@@ -1,7 +1,6 @@
 # Portal Gaming
 
 ## E-commerce website with forum created with PHP, HTML, JAVASCRIPT, CSS, MYSQL.
-------
 
 This system is an Online E-Commerce Gaming Website with forum implemented. Users can only access the website when they register using their email, once user registers their details are stored in database and email with verification is sent to their email account with activation link. Once logged in and account is activated user can purchase and rate games.
 If user forgot their password, they can reset the password using the Forgot Password function on login page. Once they prompt this function they must input the registered email and they receive an email with password change link. 
