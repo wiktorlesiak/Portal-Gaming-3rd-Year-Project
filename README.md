@@ -9,7 +9,7 @@ Users can access the forum and create forum account to use fully use the forum.
 Admin can configure forum using admin login details which allows them to fully configure users, topics, and categories of the forum they are also able to change roles of the users.
 Administrator can log in through their account and modify the data in database by the ADMIN CURD which is only able to be accused by admin.
 This website can be used by anyone who is interested in purchasing, rate, and discuss or share their opinion about all the different games.
-------
+
 
 ## Homepage
 It’s a first page people see after they are logged so it usually pays big role in the website. Home page should be attractive to catch the attention and have simple look for user to know where they are. The homepage will consist of a clear website name, simple design, list of updates and news about the website so members of the website can always know what’s happening around the website.
